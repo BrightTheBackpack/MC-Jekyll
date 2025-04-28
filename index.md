@@ -1,4 +1,7 @@
 ---
+title: home
 ---
 
-# tonic-starter
+# MC-Jekyll-Starter
+
+*MC-Jekyll-Starter* is a minecraft themed jekyll starter.
